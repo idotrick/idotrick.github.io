@@ -1,5 +1,5 @@
 ---
-layout: main
+layout: home
 ---
 
 <div class="d-flex justify-content-center">

@@ -1,7 +1,3 @@
-footer {
-    margin-top: 2rem!important;
-}
-
 .profile-desc {
     font-family: MontSerrat,Tahoma,Arial,sans-serif;
     color: #9a9a9a;
@@ -57,3 +53,12 @@ body, .bar-header {
 .link-dark {
     color: #cacaca;
 }
+
+/*home-page style [start]*/
+.footer-fixed {
+    position: fixed;
+    bottom: 0;
+    left:0;
+    width: 100%;
+}
+/*home-page style [end]*/
