@@ -1,14 +1,14 @@
 # Site Settings
-title: iDoTrick
+title: iDoTrick | Damith's portfolio and technology blog
 email: idotrick.public@gmail.com
-description: Some text about your blog.
+description: Damith is a Full Stack Java Developer, a tech enthusiast. iDoTrick is his portfolio and technology blog.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 
 # User Settings
 username: iDoTrick
-user_description: Some text about you.
+user_description: Damith is a Full Stack Java Developer, a tech enthusiast.
 disqus_username: disqus_username
 
 # Social Media
