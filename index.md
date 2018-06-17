@@ -1,6 +1,17 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: home
+layout: main
 ---
+
+<div class="d-flex justify-content-center">
+    <div class="profile-desc">
+        <img src="../assets/img/profile-pic.jpg" class="img-responsive rounded-circle" height="128" width="128">
+        <br><br>
+
+        Hello, my name is <h3>Damith</h3>
+        I'm a full stack Java developer,
+        a blend of smartness & hard work
+        
+        <br><br>
+        <a href="/contact/" class="link-dark">Talk to me!</a>
+    </div>
+</div>
