@@ -4,7 +4,7 @@ email: idotrick.public@gmail.com
 description: Damith is a Full Stack Java Developer, a tech enthusiast. iDoTrick is his portfolio and technology blog.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
-google_analytics: "UA-XXXXXXXX-X"
+google_analytics: "UA-120968098-1"
 
 # User Settings
 username: iDoTrick
