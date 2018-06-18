@@ -37,11 +37,16 @@ links:
   - title: Home
     url: /
   - title: Portfolio
-    url: /portfolio/
+    url: /module/portfolio/
   - title: Blog
-    url: /blog/
+    url: /module/blog/
   - title: Contact
-    url: /contact/
+    url: /module/contact/
+
+category_urls:
+  ifs: http://www.ifsworld.com
+  dxc: http://www.dxc.com
+  integro: http://www.integrosys.com
 
 # Exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
