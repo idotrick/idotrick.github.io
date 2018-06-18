@@ -8,10 +8,10 @@ layout: home
         <br><br>
 
         Hello, my name is <h3>Damith</h3>
-        I'm a full stack Java developer,
+        I'm a full stack <em class="text-danger">Java</em> developer,
         a blend of smartness & hard work
         
         <br><br>
-        <a href="/contact/" class="link-dark">Talk to me!</a>
+        <a href="/contact/" class="btn btn-danger">Talk to me!</a>
     </div>
 </div>
