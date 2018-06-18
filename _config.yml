@@ -7,6 +7,8 @@ url: "" # the base hostname & protocol for your site
 google_analytics: "UA-120968098-1"
 
 # User Settings
+authorname: Damith
+author_description: Full Stack Java Developer | Tech Enthusiast
 username: iDoTrick
 user_description: Damith is a Full Stack Java Developer, a tech enthusiast.
 disqus_username: disqus_username
@@ -34,10 +36,10 @@ gems:
 links:
   - title: Home
     url: /
-#  - title: Portfolio
-#    url: /portfolio
-#  - title: Blog
-#    url: /blog/
+  - title: Portfolio
+    url: /portfolio/
+  - title: Blog
+    url: /blog/
   - title: Contact
     url: /contact/
 
