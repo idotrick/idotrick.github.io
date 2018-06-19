@@ -11,7 +11,7 @@ authorname: Damith
 author_description: Full Stack Java Developer | Tech Enthusiast
 username: iDoTrick
 user_description: Damith is a Full Stack Java Developer, a tech enthusiast.
-disqus_username: disqus_username
+disqus_username: idotrick
 
 # Social Media
 # Remove the item if you don't need it
@@ -38,6 +38,8 @@ links:
     url: /
   - title: Portfolio
     url: /module/portfolio/
+  - title: Skills
+    url: /tags/
   - title: Blog
     url: /module/blog/
   - title: Contact
