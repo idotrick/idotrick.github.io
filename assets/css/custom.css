@@ -68,3 +68,13 @@ body, .bar-header {
     width: 100%;
 }
 /*home-page style [end]*/
+
+/*posts*/
+
+.post-content a {
+    color: #a9a9a9;
+}
+
+section.content {
+    padding-left: 20px;
+}
