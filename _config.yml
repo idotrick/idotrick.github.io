@@ -37,13 +37,13 @@ links:
   - title: Home
     url: /
   - title: Portfolio
-    url: /module/portfolio/
+    url: /portfolio/
   - title: Skills
     url: /tags/
   - title: Blog
-    url: /module/blog/
+    url: /blog/
   - title: Contact
-    url: /module/contact/
+    url: /contact/
 
 category_urls:
   ifs: http://www.ifsworld.com

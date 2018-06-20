@@ -1,5 +1,5 @@
 ---
 layout: module
-permalink: /module/blog/
+permalink: /blog/
 module: blog
 ---

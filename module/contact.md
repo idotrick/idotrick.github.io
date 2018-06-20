@@ -2,7 +2,7 @@
 layout: page
 title: Contact
 description: Let's talk.
-permalink: /module/contact/
+permalink: /contact/
 ---
 
 <style type="text/css" media="screen">
