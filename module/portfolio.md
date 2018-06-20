@@ -1,6 +1,6 @@
 ---
 layout: module
-permalink: /module/portfolio/
+permalink: /portfolio/
 module: portfolio
 ---
 

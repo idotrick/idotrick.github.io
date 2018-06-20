@@ -1,13 +1,18 @@
-# Jekflix Template
-![Cover Image](http://res.cloudinary.com/dm7h7e8xj/image/upload/v1505354182/jekflix-logo_mfngps.png)
+# iDoTrick Template
+![Cover Image](https://res.cloudinary.com/idotrick/image/upload/v1529460274/idotrick/iDoTrick-readme_cover.png)
 
-See the [demo here](https://www.rossener.com/jekflix-template).
+See the [demo here](https://www.idotrick.com).
 
 ## What is it?
 
-A template for Jekyll inspired by Netflix panel for who loves movies and series and would like to have a blog with this cool appearance ;)
+A template for Jekyll inspired by iDoTrick for software developer would like to have portfolio and a blog with this cool appearance ;)
 
-![Screenshot](http://res.cloudinary.com/dm7h7e8xj/image/upload/v1505357238/jekflix-screenshot_qikqkl.jpg)
+Sreenshot of Home page
+![Screenshot_home](https://res.cloudinary.com/idotrick/image/upload/v1529460611/idotrick/iDoTrick-screenshot_home.png)
+
+Sreenshot of Portfolio page
+![Screenshot_portfolio](https://res.cloudinary.com/idotrick/image/upload/v1529460736/idotrick/iDoTrick-screenshot_portfolio.png)
+
 
 ## Features
 
@@ -17,7 +22,7 @@ A template for Jekyll inspired by Netflix panel for who loves movies and series 
 - Minutes to Read
 - Reading Progress Bar
  
- ![Progress Bar](http://res.cloudinary.com/dm7h7e8xj/image/upload/v1505357769/jekflix-progress-bar_he7gqf.jpg)
+ ![Progress Bar](http://res.cloudinary.com/dm7h7e8xj/image/upload/v1505357769/iDoTrick-progress-bar_he7gqf.jpg)
 - "New Post" tag
 - Load images on demand
 - Emojis 😎
@@ -36,7 +41,7 @@ A template for Jekyll inspired by Netflix panel for who loves movies and series 
 ## Setup
 
 1. Install Jekyll (use the command `gem install jekyll`)
-1. Fork the [Jekflix Template](https://github.com/thiagorossener/jekflix-template/fork)
+1. Fork the [iDoTrick Template](https://github.com/idotrick/idotrick.github.io/fork)
 1. Clone the repo you just forked
 1. Edit `_config.yml` to personalize your site. 
 1. Check out the sample posts in `_posts` to see examples for assigning category, tags, image and other YAML data
@@ -144,18 +149,4 @@ introduction: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do e
 
 ## Questions?
 
-File a [GitHub Issue](https://github.com/thiagorossener/jekflix-template/issues/new) please.
-
-## Donation
-
-Did you like my work? Buy me a beer :)
-
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=YT3BC53XLMJ96&lc=GB&item_name=Thiago%20Rossener%20Nogueira&item_number=DON1212&no_note=0&cn=Adicionar%20instru%c3%a7%c3%b5es%20especiais%20para%20o%20vendedor%3a&no_shipping=2&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted)
-
-## Author
-
-[Thiago Rossener](https://www.rossener.com/) based on [Cards Jekyll Template](https://github.com/willianjusten/cards-jekyll-template).
-
-## License
-
-*Jekflix Template* is available under the MIT license. See the LICENSE file for more info.
+File a [GitHub Issue](https://github.com/idotrick/idotrick.github.io/issues/new) please.
