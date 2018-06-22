@@ -1,16 +1,112 @@
----
-layout: null
----
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-    {% for page in site.pages %}
-        <url>
-            <loc>{{ page.url | prepend: site.baseurl | prepend: site.url }}</loc>
-        </url>
-    {% endfor %}
-    {% for post in site.posts %}
-        <url>
-            <loc>{{ post.url | prepend: site.baseurl | prepend: site.url }}</loc>
-        </url>
-  {% endfor %}
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://www.idotrick.com/</loc>
+  <lastmod>2018-06-21T03:09:21+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://www.idotrick.com/portfolio/</loc>
+  <lastmod>2018-06-21T03:09:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.idotrick.com/tags/</loc>
+  <lastmod>2018-06-21T03:09:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.idotrick.com/blog/</loc>
+  <lastmod>2018-06-21T03:09:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.idotrick.com/contact/</loc>
+  <lastmod>2018-06-21T03:09:21+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.idotrick.com/portfolio-integro-project-03/</loc>
+  <lastmod>2018-06-21T03:09:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.idotrick.com/portfolio-integro-project-02/</loc>
+  <lastmod>2018-06-21T03:09:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.idotrick.com/portfolio-integro-project-01/</loc>
+  <lastmod>2018-06-21T03:09:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.idotrick.com/portfolio-ge-Project-03/</loc>
+  <lastmod>2018-06-21T03:09:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.idotrick.com/portfolio-ge-Project-02/</loc>
+  <lastmod>2018-06-21T03:09:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.idotrick.com/portfolio-ge-Project-01/</loc>
+  <lastmod>2018-06-21T03:09:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.idotrick.com/portfolio-dxc-Project-03/</loc>
+  <lastmod>2018-06-21T03:09:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.idotrick.com/portfolio-dxc-Project-02/</loc>
+  <lastmod>2018-06-21T03:09:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.idotrick.com/portfolio-dxc-Project-01/</loc>
+  <lastmod>2018-06-21T03:09:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.idotrick.com/portfolio-nindev-Project-03/</loc>
+  <lastmod>2018-06-21T03:09:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.idotrick.com/portfolio-nindev-Project-02/</loc>
+  <lastmod>2018-06-21T03:09:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.idotrick.com/portfolio-nindev-Project-01/</loc>
+  <lastmod>2018-06-21T03:09:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.idotrick.com/portfolio-ifs-project-02/</loc>
+  <lastmod>2018-06-21T03:09:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.idotrick.com/portfolio-ifs-project-01/</loc>
+  <lastmod>2018-06-21T03:09:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://www.idotrick.com/blog-post-01/</loc>
+  <lastmod>2018-06-21T03:09:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
 </urlset>
