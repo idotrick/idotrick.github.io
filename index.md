@@ -12,6 +12,7 @@ layout: home
         a blend of smartness & hard work
         
         <br><br>
+        <a href="https://drive.google.com/open?id=1vzVK16ud7d8Crw0lzoHm4SKRHfCOdQWp" class="btn btn-info">My Resume</a>        
         <a href="/contact/" class="btn btn-danger">Talk to me!</a>
     </div>
 </div>
