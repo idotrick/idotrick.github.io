@@ -78,3 +78,7 @@ body, .bar-header {
 section.content {
     padding-left: 20px;
 }
+
+.progress-bar {
+    display: none;!important;
+}
