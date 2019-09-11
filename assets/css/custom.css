@@ -21,13 +21,13 @@
     transition-delay: .4s;
 }
 
-.fa {
+.fa, .fab {
     color: black;
     width: 35px;
     padding: 10px 5px;
 }
 
-.fa:hover {
+.fa:hover, .fab:hover {
     opacity: 0.7;
 }
 header .fa:hover {
